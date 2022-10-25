@@ -1,4 +1,7 @@
+## This is a fully responsive React Youtube like Web Application with MUI and Youtube API from Rapid Api  
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
