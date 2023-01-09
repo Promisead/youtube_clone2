@@ -16,6 +16,8 @@ const Feed = () => {
     );
   }, [selectedCategory]);
 
+  /* xs={12} sm={12} md={4} lg={4} xl={3} */
+
   return (
     <Stack sx={{ flexDirection: { sx: 'column', md: 'row' } }}>
       <Box
